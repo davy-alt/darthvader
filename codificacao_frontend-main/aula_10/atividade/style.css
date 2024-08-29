@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin: 0;
+}
+
+.img{
+    width: 100%;
+}
+
+ .navbar{
+    background-color: #739a9c;
+ }
+
+.navbar ul{
+    margin: 0;
+    display: flex;
+    padding: 10px;
+ }
+
+ .links{
+    margin-right: 50px;
+    list-style: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+ }
+
+ a{
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+ }
+
+ h1, p{
+    color: #fff;
+ }
+
+ .sobre{
+    margin: 20px;
+    margin-top: 30px;
+        margin-bottom: 40px;
+ }
+
+ footer{
+    text-align: center;
+ }
